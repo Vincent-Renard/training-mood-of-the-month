@@ -63,7 +63,7 @@ Install the latest **Wildfly** application server. Search & read the docs to kno
 
 ### Git repository
 A new repository will be provided, with owner rights.  
-Everyone must be able to push code on the repository. The important fact here is to **create your orwn team workflow**.
+Everyone must be able to push code on the repository. The important fact here is to **create your own team workflow**.
 
 ## Project Architecture
 Take your time and brainstorm in group to create a clean architecture for the project.
